@@ -1,0 +1,6 @@
+{
+  "ambientDependencies": {
+    "node": "github:DefinitelyTyped/DefinitelyTyped/node/node.d.ts#78d36dd49b6b55b9fdfe61776a12bf05c8b07777"
+  }
+}
+
