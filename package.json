@@ -8,8 +8,8 @@
     "postinstall": "typings install && tsc"
   },
   "dependencies": {
-    "typescript": "^1.7.3",
-    "typings": "^0.5.1",
-    "ts-lib1": "git+https://github.com/erykwarren/ts-lib1.git"
+    "ts-lib1": "git+https://github.com/erykwarren/ts-lib1.git",
+    "typescript": "^1.8.0-dev.20160109",
+    "typings": "^0.5.1"
   }
 }
