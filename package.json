@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "ts-lib1": "git+https://github.com/erykwarren/ts-lib1.git",
-    "typescript": "git+ssh://github.com/unitoio/TypeScriptPatched.git",
+    "typescript": "^1.8.0-dev.20160109",
     "typings": "^0.5.1"
   }
 }
